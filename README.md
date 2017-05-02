@@ -1,6 +1,6 @@
 # realRPG
 realRPG server link 
-- https://github.com/ConoGames/realRPGServer
+- https://github.com/ConoGames/RealRPGServer
 
 realRPG client link 
-- https://github.com/ConoGames/realRPGClient
+- https://github.com/ConoGames/RealRPGClient
